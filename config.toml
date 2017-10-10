@@ -1,4 +1,4 @@
-baseurl = "https://atelierscheidegger.ch"
+baseurl = "https://scientist-cow-37148.netlify.com/"
 title = "Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "de-de"
