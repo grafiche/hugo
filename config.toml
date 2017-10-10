@@ -1,0 +1,57 @@
+baseurl = "https://atelierscheidegger.ch"
+title = "Portfolio"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "de-de"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Describe your website"
+  copyright = "&copy;2017 atelierscheidegger.ch"
+  sidebarAbout = [
+    "Ich bin ein kreativer grafischer Gestalter mit mehr als 10 Jahren Erfahrung.",
+    "Wohnhaft und tätig in Bern."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "info@atelierscheidegger.ch"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "Über mich"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Beispiele Hugo"
+  url = "beispiele-hugo/"
+
+  [[params.navlinks]]
+  name = "Kontakt"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "https://www.facebook.com/atelierscheidegger"
+  googleplus    = "https://plus.google.com/u/0/b/105527733441533677874/105527733441533677874/about"
+  email         = "info@atelierscheidegger.ch"
+  twitter       = "https://twitter.com/grafichepunktch"
+  linkedin      = "https://www.linkedin.com/in/christof-scheidegger-5898b7bb/"
+  github        = "https://github.com/grafiche"
