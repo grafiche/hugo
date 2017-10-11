@@ -1,6 +1,9 @@
 {{ define "main" }}
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
-  {{ partial "mobile_nav_toggle.html" . }}
+  <!-- {{ partial "mobile_nav_toggle.html" . }} -->
+  {{ partial "sidebar.html" . }}
+  {{ block "main" . }}
+  {{ end }}
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
