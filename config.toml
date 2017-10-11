@@ -1,4 +1,4 @@
-baseurl = "http://www.reagiert.ch/"
+baseurl = "https://www.reagiert.ch/"
 title = "Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "de-de"
@@ -34,7 +34,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "www.reagiert.ch"
+  url = "http://www.reagiert.ch"
 
   [[params.navlinks]]
   name = "Über mich"
