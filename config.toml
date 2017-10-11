@@ -6,6 +6,9 @@ languageCode = "de-de"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+canonifyURLs = "true"
+relativeURLs = "true"
+uglyURLs = "true"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
