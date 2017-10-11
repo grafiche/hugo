@@ -41,7 +41,7 @@ uglyURLs = "true"
 
   [[params.navlinks]]
   name = "Über mich"
-  url = "https://www.reagiert.ch/about/"
+  url = "/about/"
 
   [[params.navlinks]]
   name = "Beispiele Hugo"
