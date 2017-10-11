@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beispiele Hugo on Portfolio</title>
+    <link>https://scientist-cow-37148.netlify.com/beispiele-hugo/</link>
+    <description>Recent content in Beispiele Hugo on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;2017 atelierscheidegger.ch</copyright>
+    <lastBuildDate>Wed, 04 Oct 2017 21:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="https://scientist-cow-37148.netlify.com/beispiele-hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
