@@ -1,5 +1,4 @@
 baseURL = "https://www.reagiert.ch/"
-absURL = "https://www.reagiert.ch/"
 title = "Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "de-de"
@@ -7,7 +6,6 @@ languageCode = "de-de"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-canonifyURLs = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
