@@ -41,15 +41,15 @@ uglyURLs = "true"
 
   [[params.navlinks]]
   name = "Über mich"
-  url = "about/"
+  url = "/about/"
 
   [[params.navlinks]]
   name = "Beispiele Hugo"
-  url = "beispiele-hugo/"
+  url = "/beispiele-hugo/"
 
   [[params.navlinks]]
   name = "Kontakt"
-  url = "contact/"
+  url = "/contact/"
 
   [params.social]
   facebook      = "https://www.facebook.com/atelierscheidegger"
