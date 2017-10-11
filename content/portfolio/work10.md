@@ -8,10 +8,10 @@ weight = 10
 +++
 
 Redesign der Etiketten und Entwicklung eines Imageflyers für yocafe.ch:
-> Schriftwahl
-> Farbkonzept für die unterschiedlichen Sorten
-> Gestaltung und Umsetzung des Imageflyers
-> Bildkompositionen für die Packshots
+* Schriftwahl
+* Farbkonzept für die unterschiedlichen Sorten
+* Gestaltung und Umsetzung des Imageflyers
+* Bildkompositionen für die Packshots
 <!--more-->
 
 Grafik und Gestaltung mit Adobe InDesign, Illustrator und Photoshop
