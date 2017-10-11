@@ -1,4 +1,4 @@
-baseURL = "https://www.reagiert.ch/"
+baseURL = "/"
 title = "Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "de-de"
