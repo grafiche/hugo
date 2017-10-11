@@ -8,7 +8,7 @@
       {{ $url := .Site.BaseURL }}
       {{ range .Site.Params.navlinks }}
         <!-- <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li> -->
-        <li><a href="{{ baseURL }}">{{ .name }}</a></li>
+        <li><a href="{{ .baseURL }}">{{ .name }}</a></li>
 
       {{ end }}
     </ul>
