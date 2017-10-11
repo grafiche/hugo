@@ -1,9 +1,9 @@
 +++
 draft = false
 image = "img/portfolio/trifold.jpg"
-showonlyimage = true
+showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
-title = "Item with image"
+title = "yocafe.ch - Imageflyer"
 weight = 10
 +++
 
@@ -22,14 +22,6 @@ Grafik und Gestaltung mit Adobe InDesign, Illustrator und Photoshop
 ![yocafe-flyer][1]
 
 
-#### Ausbildung
-* CSS, HTML in Eigenstudium
-* 4-jährige Polygrafen-Ausbildung Fischer Druck AG, Münsingen
-* Schulzeit in Münsingen
 
-1979  
-Geboren in Solothurn
-
-{{< youtube vn8v1rGh6XM >}}
 
 [1]: /img/portfolio/trifold.jpg
