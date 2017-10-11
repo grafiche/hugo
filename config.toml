@@ -6,6 +6,7 @@ languageCode = "de-de"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+canonifyURLs = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -34,7 +35,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "http://www.reagiert.ch"
+  url = ""
 
   [[params.navlinks]]
   name = "Über mich"
